@@ -3,6 +3,8 @@ This repository provides an in-depth overview of various cloud deployment strate
 
 # Deployment Strategies of Cloud
 
+![](https://github.com/ravikantmaurya00/Cloud-Deployment-Strategies/blob/main/Images/DALL%C2%B7E%202025-03-24%2006.56.51%20-%20A%20visually%20appealing%20mind%20map%20illustrating%20cloud%20deployment%20strategies.%20The%20central%20node%20is%20labeled%20'Cloud%20Deployment%20Strategies%2C'%20branching%20into%20eigh.webp)
+
 ## Introduction
 First, let us understand what Cloud is and what cloud computing is before diving into cloud deployment strategies. The cloud provides computing resources like storage, RAM, CPU, and networking over the internet.
 
